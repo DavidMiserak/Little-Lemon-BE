@@ -1,0 +1,4 @@
+# filename: requirements.txt
+# content: requirements for Django project
+
+Django==5.1.1
