@@ -30,4 +30,5 @@ urlpatterns = [
     path("api/", include("restaurant.urls")),
     path("restaurant/", include("restaurant.urls")),
     path("restaurant/booking/", include(router.urls)),
+    path("api/booking/", include(router.urls)),
 ]
