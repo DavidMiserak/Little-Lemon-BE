@@ -8,6 +8,7 @@ mysqlclient = "*"
 django = "*"
 pre-commit = "*"
 djangorestframework = "*"
+djoser = "*"
 
 [dev-packages]
 
